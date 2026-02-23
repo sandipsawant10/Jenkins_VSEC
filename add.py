@@ -4,3 +4,8 @@ b = 5
 sum = a + b
 
 print(sum)
+
+
+sub = b - a
+
+print(sub)
